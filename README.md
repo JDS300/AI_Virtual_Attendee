@@ -5,8 +5,8 @@ Real-time presentation feedback tool that streams your screen and microphone to 
 ## Quick Start
 
 ```bash
-cd /mnt/Data2TB/GitRepos/AI_Presentation_Attendee
-source venv/bin/activate.fish
+cd PATH_TO_SCRIPT
+source venv/bin/activate.fish (used for any OS using fish as the shell, ie CachyOS)
 
 # Run (2>/dev/null hides audio library warnings)
 python main.py --session-name "Workshop Rehearsal" 2>/dev/null
@@ -56,4 +56,4 @@ As you present, you'll see Gemini's feedback appear live:
 
 - Python 3.10+
 - Google API key with Gemini 2.5 Flash Native Audio access
-- Microphone (HyperX default at device 5)
+- Microphone
