@@ -1,8 +1,6 @@
 Handoff Package
 Project: AI Workshop Attendee MVP
 Timeline: 3 hours max
-Delivery: Tuesday 9pm
-Full Brief Above ⬆️ (includes multi-monitor requirement)
 
 Quick Start Commands for Agents
 bash# Setup
@@ -28,9 +26,9 @@ Response logging (20 min)
 CLI polish (20 min)
 README (20 min)
 
-If you're at 2.5 hours and audio isn't working: ship screen-only version. JD can narrate without mic capture and still get visual feedback.
+If you're at 2.5 hours and audio isn't working: ship screen-only version.
 
-Communication Back to JD
+Communication Back to USER
 When complete, deliver:
 
 GitHub repo link (or zipped project)
